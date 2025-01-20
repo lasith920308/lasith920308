@@ -1,4 +1,3 @@
 print("my first line")
 print("my second line")
-print("once again master changes the edit from japan team some line")
-
+print("the Japan team made the change once again")
