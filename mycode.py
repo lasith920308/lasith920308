@@ -1,4 +1,4 @@
 print("my first line")
 print("my second line")
-print("the Japan team change was modified by the master")
+print("once again master changes the edit from japan team")
 
