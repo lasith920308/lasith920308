@@ -7,3 +7,4 @@ print('changes for the third commit');
 print('changes for the fourth commit');
 print('changes for the fifth commit');
 print('The edit I am making directly from github account')
+print('Few more changes to check the fetch and merge')
